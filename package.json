@@ -1,0 +1,24 @@
+{
+  "name": "devopspractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OKenedy/DevOpspractice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/OKenedy/DevOpspractice/issues"
+  },
+  "homepage": "https://github.com/OKenedy/DevOpspractice#readme",
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}
